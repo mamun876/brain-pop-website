@@ -1,0 +1,24 @@
+/* carosouel styles */
+
+
+.carousel-caption {
+    margin-bottom: 150px;
+
+}
+
+.carousel-caption h5 {
+    font-size: 60px;
+    font-weight: 500;
+
+}
+
+.carousel-inner img {
+    height: 100%;
+    border-radius: 10px;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
